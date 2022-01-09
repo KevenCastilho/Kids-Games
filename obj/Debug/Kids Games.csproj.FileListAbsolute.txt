@@ -1,0 +1,25 @@
+C:\Users\Keven Castilho\source\repos\Kids Games\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Keven Castilho\source\repos\Kids Games\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Keven Castilho\source\repos\Kids Games\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Keven Castilho\source\repos\Kids Games\bin\Debug\Kids Games.exe.config
+C:\Users\Keven Castilho\source\repos\Kids Games\bin\Debug\Kids Games.exe
+C:\Users\Keven Castilho\source\repos\Kids Games\bin\Debug\Kids Games.pdb
+C:\Users\Keven Castilho\source\repos\Kids Games\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\Keven Castilho\source\repos\Kids Games\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Keven Castilho\source\repos\Kids Games\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Keven Castilho\source\repos\Kids Games\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\Keven Castilho\source\repos\Kids Games\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\Keven Castilho\source\repos\Kids Games\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\Keven Castilho\source\repos\Kids Games\obj\Debug\Kids Games.csprojAssemblyReference.cache
+C:\Users\Keven Castilho\source\repos\Kids Games\obj\Debug\Kids_Games.Form1.resources
+C:\Users\Keven Castilho\source\repos\Kids Games\obj\Debug\Kids_Games.Properties.Resources.resources
+C:\Users\Keven Castilho\source\repos\Kids Games\obj\Debug\Kids Games.csproj.GenerateResource.cache
+C:\Users\Keven Castilho\source\repos\Kids Games\obj\Debug\Kids Games.csproj.CoreCompileInputs.cache
+C:\Users\Keven Castilho\source\repos\Kids Games\obj\Debug\Kids Games.csproj.CopyComplete
+C:\Users\Keven Castilho\source\repos\Kids Games\obj\Debug\Kids Games.exe
+C:\Users\Keven Castilho\source\repos\Kids Games\obj\Debug\Kids Games.pdb
+C:\Users\Keven Castilho\source\repos\Kids Games\obj\Debug\Kids_Games.AboutBox1.resources
+C:\Users\Keven Castilho\source\repos\Kids Games\bin\Debug\Kids Games.exe.manifest
+C:\Users\Keven Castilho\source\repos\Kids Games\bin\Debug\Kids Games.application
+C:\Users\Keven Castilho\source\repos\Kids Games\obj\Debug\Kids Games.exe.manifest
+C:\Users\Keven Castilho\source\repos\Kids Games\obj\Debug\Kids Games.application
